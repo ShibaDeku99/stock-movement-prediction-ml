@@ -1,0 +1,4 @@
+Strategy,Final Value,Total Return,Max Drawdown,Sharpe Ratio,Calmar Ratio,Number of Trades,Exposure Time
+Binary Signal,"$17,190",71.90%,-11.40%,1.45,2.41,36,30.8%
+Proba Sizing,"$14,827",48.27%,-7.77%,1.49,2.49,36,30.8%
+Buy & Hold,"$17,398",73.98%,-33.36%,1.03,0.84,1,100.0%
